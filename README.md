@@ -1,1 +1,2 @@
-# o-pen-mic2.0
+# GitHub Learning Repository
+Welcome to the GitHub Learning Repository, created for today's session on Git and GitHub as a part of o-pen-mic 2.0 by tinkerhub mbccet ! This repository contains a simple index.html file with a name that anyone can change through a pull request. Participants can practice essential skills such as forking the repository, creating branches, making modifications, and submitting pull requests, providing hands-on experience with collaboration on GitHub.
